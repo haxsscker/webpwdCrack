@@ -16,7 +16,7 @@ class webCrack():
         self.passsearch = ['搜索','索引','检索','关键字','查找','sousuo','jiansuo','search','keyword']
         self.passyzm = ['验证码','验证','更换','点击刷新','刷新','点击更换','checkcode','valicode','code','captcha','yzm']
         self.userfield = ['user','username','name','yonghu','zhanghao','email','account']
-        self.passfield = ['password','pass','pwd','mima','passwd']
+        self.passfield = ['password','pass','pwd','mima','passwd','userPsw']
         self.userfieldnm = ''
         self.passfieldnm = ''
         self.outcookie = {}
